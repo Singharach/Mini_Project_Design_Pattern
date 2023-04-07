@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mini Tax Calculator", "Mini Tax Calculator\Mini Tax Calculator.csproj", "{6B32CE30-52A1-4554-A281-E67F6DDE78CE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TaxCalculate Setup", "..\TaxCalculate Setup\TaxCalculate Setup.vdproj", "{6A1896AF-1DE8-4205-AF0C-3F4304CC88BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B32CE30-52A1-4554-A281-E67F6DDE78CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B32CE30-52A1-4554-A281-E67F6DDE78CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B32CE30-52A1-4554-A281-E67F6DDE78CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B32CE30-52A1-4554-A281-E67F6DDE78CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1896AF-1DE8-4205-AF0C-3F4304CC88BB}.Debug|Any CPU.ActiveCfg = Debug
+		{6A1896AF-1DE8-4205-AF0C-3F4304CC88BB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCFE528F-48AE-460B-9966-FBA52662F20D}
+	EndGlobalSection
+EndGlobal

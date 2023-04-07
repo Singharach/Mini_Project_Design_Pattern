@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Mini_Tax_Calculator</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Title>Mini TaxCalculator</Title>
+    <Description>Mini TaxCalculator</Description>
+    <Authors>Singharach</Authors>
+    <Company>UBU Programer Corp.</Company>
+    <Product>$(Title)</Product>
+    <Copyright>Singha</Copyright>
+    <PackageIcon>Iconsmind-Outline-Calculator-2.512.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\Iconsmind-Outline-Calculator-2.512.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\Mini Tax Calculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\Mini_Tax_Calculator.Form1.resources
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\Mini Tax Calculator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\Mini Tax Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\Mini Tax Calculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\Mini Tax Calculator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\Mini Tax Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\bin\Debug\net7.0-windows\Mini Tax Calculator.exe
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\bin\Debug\net7.0-windows\Mini Tax Calculator.deps.json
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\bin\Debug\net7.0-windows\Mini Tax Calculator.runtimeconfig.json
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\bin\Debug\net7.0-windows\Mini Tax Calculator.dll
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\bin\Debug\net7.0-windows\Mini Tax Calculator.pdb
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\Mini Tax Calculator.dll
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\refint\Mini Tax Calculator.dll
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\Mini Tax Calculator.pdb
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\Mini Tax Calculator.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Software Pattern\Mini Tax Calculator\Mini Tax Calculator\obj\Debug\net7.0-windows\ref\Mini Tax Calculator.dll
